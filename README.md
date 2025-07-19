@@ -47,7 +47,7 @@ I created this project because of two concepts my last remaining braincells enco
 
 
 ## Technologies
-Literally 90's tech. This solves problem #2. Im using it right now, it's maxxing out on 16mb of ram on my system. This is because it was built with Visual Basic 6.0, which was built for older machines which didn't have much ram to work with. Initially i wanted to use VB6 as like a prototyping tool before i switched to something more modern, like C# Forms, but i got too carried away.
+Literally 90's tech. This solves problem #2. Im using it right now, it maxing out on 16mb of ram on my system. This is because it was built with Visual Basic 6.0, which was built for older machines which didn't have much ram to work with. Initially i wanted to use VB6 as like a prototyping tool before i switched to something more modern, like C# Forms, but i got too carried away.
 
 I had to learn Visual Basic in that same 6 hours while making it. Side effect of using 90's tech, is that this probably runs on windows xp on a good day lol
 
