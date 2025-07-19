@@ -3,6 +3,7 @@
 
 Super simple music player for windows that barely takes up any ram with built in ambience. This one is special, because i made this in just under 6 hours with VB6.
 
+If you think having ambience was a random feature, because it is. I initially wasn't planning on releasing this, so i added whatever i wanted lol
 
 
 
