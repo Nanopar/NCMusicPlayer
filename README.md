@@ -20,7 +20,7 @@ Ambient Sounds Selection
 
 
 ## Installation And Usage
-All you have to do, is install the 400kb exe file, and put it inside a separate folder of it's own. To actually use it, all you gotta do is just put a music folder next to it, and set it up like this:
+All you have to do is install the 400kb exe file, and put it inside a separate folder of it's own. To actually use it, all you gotta do is just put a music folder next to it, and set it up like this:
 ```
 crappymusicplayeroffofgithub
 ├── NanopsChillMusicPlayer.exe
